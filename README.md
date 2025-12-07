@@ -1,0 +1,2 @@
+# SemesterProject-UnderstandingBasicImageProcessingApplication_Minahil-Tahir-Fatima-Faizan_
+This repository will contain an interactive c++ code of filtering application that will help users to learn hoe image processing takes place behind the scenes through gamifying the whole process. Fear not as it will also contain all the steps that you will need to perform on your devices in order for it to work properly.
