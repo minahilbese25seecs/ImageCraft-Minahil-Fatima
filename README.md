@@ -4,8 +4,10 @@ This repository will contain an interactive c++ code of filtering application th
   1. Firstly, please download **ImageMagick** through the following steps:<br>
      a. Open GitBash on your device.<br>
      b. Enter the following command<br>
-         picture of the command<br>
+        <img width="460" height="49" alt="Image" src="https://github.com/user-attachments/assets/df567ecd-f366-4bca-96b6-b5a4df3ebbb0" /><br>
      c. ImageMagick will start downloading.Wait for a while.If you get an error, make sure to check your internet connection and try again.<br>
+     d. After the download is complete, enter the following command to confirm the installation of ImageMagick on your device.<br>
+     
      d. After the download is complete, enter the following command to confirm that ImageMagick is successfully                installed on your device.<br>
            picture of the command.<br>
   2. Zip and download the entire folder on this git repository by clicking the green code button and by choosing zip and download.<br>
