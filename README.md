@@ -21,6 +21,6 @@ This repository will contain an interactive c++ code of filtering application th
   10. The output photo will be avalaible in the **Filtered photos** sub-folder in ImageCraft.Open it to check if your output photo is there or not.<br>
   11. Convert your output.ppm to output.jpg by a .bat converter provided there.<br>
   12. You can see the filter applied on the output photo.<br>
- -----------------------------------------------------HAPPY EDITING!-------------------------------------------------
+ -----------------------------------------------------HAPPY EDITING!----------------------------------------------
      
      
